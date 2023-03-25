@@ -6,5 +6,5 @@
 # Sensor reading when torch is on.
 ![torchon](screenshots/torchon.jpeg)
 
-# Sensor reading when torch is on
+# Sensor reading when torch is on USB debugging mode.
 ![torchon](screenshots/torchon1.jpeg)
